@@ -1,0 +1,3 @@
+[submodule "libs/BabylonJS"]
+	path = libs/BabylonJS
+	url = https://github.com/BabylonJS/Babylon.js.git
