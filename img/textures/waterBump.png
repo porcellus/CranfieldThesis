@@ -1,0 +1,16 @@
+--2015-05-07 02:13:28--  http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-73-metablogapi/5127.image_5F00_422EA89D.png
+Resolving blogs.msdn.com (blogs.msdn.com)... 65.52.103.94
+Connecting to blogs.msdn.com (blogs.msdn.com)|65.52.103.94|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-73-metablogapi/5127.image_5F00_422EA89D.png [following]
+--2015-05-07 02:13:28--  http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-73-metablogapi/5127.image_5F00_422EA89D.png
+Reusing existing connection to blogs.msdn.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63815 (62K) [image/png]
+Saving to: `5127.image_5F00_422EA89D.png.1'
+
+     0K .......... .......... .......... .......... .......... 80% 72.4K 0s
+    50K .......... ..                                         100% 46.4M=0.7s
+
+2015-05-07 02:13:29 (90.2 KB/s) - `5127.image_5F00_422EA89D.png.1' saved [63815/63815]
+
